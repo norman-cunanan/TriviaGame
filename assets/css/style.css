@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#start-button {
+	margin: 200px;
+}
+
+.question-answer-div {
+	margin-top: 40px;
+}
+
+.answers {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+.stats-page {
+	margin: 30px;
+}
